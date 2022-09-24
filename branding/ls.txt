@@ -4,7 +4,9 @@ biodiv.png
 biodiv.svg
 butterfly-noshade.svg
 butterfly-sq.svg
-button.svg.2022_03_21_22_03_16.0.svg
+buttonfly.png
+buttonfly.svg
+cgm-sticker.png
 cgm-sticker.svg
 cgm-x-sticker.png
 crysals.svg
@@ -14,6 +16,9 @@ gallery.md
 gb-butterfly.svg
 gbitcoin.svg
 little-golden-bfly-1.svg
+little-golden-bfly.png
+little-golden-bfly-solid.png
+little-golden-bfly-solid.svg
 little-golden-bfly.svg
 logo.59f387b7.svg
 ls.md

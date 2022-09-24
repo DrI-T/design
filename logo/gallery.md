@@ -41,7 +41,7 @@ base: ../
 ![phx-blue-gold-w-bfly-icon.svg](phx-blue-gold-w-bfly-icon.svg)
 ![phx-blue-gold-w-bfly-wo-shade-icon.png.svg](phx-blue-gold-w-bfly-wo-shade-icon.png.svg)
 ![phx-blue-gold-w-bfly-wo-shade-icon.svg](phx-blue-gold-w-bfly-wo-shade-icon.svg)
-![phx-branding.svg](seas/sea-of-pics/phx-branding.svg)
+![phx-branding.svg](phx-branding.svg)
 ![phxfly.svg](phxfly.svg)
 ![phx-gold-logo-10ptransp.svg](phx-gold-logo-10ptransp.svg)
 ![phx-gold-logo-circlable.svg](phx-gold-logo-circlable.svg)

@@ -29,7 +29,7 @@ base: ../../
  - [phx-blue-w-bfly-icon.png](phx-blue-w-bfly-icon.png)
  - [phx-branding.jpg](phx-branding.jpg)
  - [phx-branding.png](phx-branding.png)
- - [phx-branding.svg](seas/sea-of-pics/phx-branding.svg)
+ - [phx-branding.svg](phx-branding.svg)
  - [phxfly.svg](phxfly.svg)
  - [phx-gold-circlable.png](phx-gold-circlable.png)
  - [phx-goldfly-logo.png](phx-goldfly-logo.png)
