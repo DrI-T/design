@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="191.75522mm"
+   height="246.45827mm"
+   viewBox="0 0 191.75522 246.45827"
+   version="1.1"
+   id="svg208132"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs208129">
+    <linearGradient
+       id="linearGradient474010">
+      <stop
+         style="stop-color:#d45500;stop-opacity:1"
+         offset="0"
+         id="stop474008" />
+      <stop
+         style="stop-color:#800000;stop-opacity:1"
+         offset="1"
+         id="stop474006" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient474002">
+      <stop
+         style="stop-color:#076600;stop-opacity:1"
+         offset="0"
+         id="stop474000" />
+      <stop
+         style="stop-color:#d45500;stop-opacity:1"
+         offset="1"
+         id="stop473998" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient473994">
+      <stop
+         style="stop-color:#00c2f5;stop-opacity:1"
+         offset="0"
+         id="stop473992" />
+      <stop
+         style="stop-color:#106600;stop-opacity:1"
+         offset="1"
+         id="stop473990" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient473922">
+      <stop
+         style="stop-color:#4c0082;stop-opacity:1"
+         offset="0"
+         id="stop473920" />
+      <stop
+         style="stop-color:#00c2f5;stop-opacity:1"
+         offset="1"
+         id="stop473918" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="marker295894"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path295892" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker250279"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path250277" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path208265" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path208268" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker295894-0"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path295892-3" />
+    </marker>
+    <linearGradient
+       xlink:href="#linearGradient473922"
+       id="linearGradient2750"
+       x1="664.36249"
+       y1="538.48895"
+       x2="896.6059"
+       y2="538.48895"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.24750647,0,0,0.43502659,-152.24138,38.912711)" />
+    <linearGradient
+       id="linearGradient3012">
+      <stop
+         style="stop-color:#800000;stop-opacity:1"
+         offset="0"
+         id="stop3008" />
+      <stop
+         style="stop-color:#d45500;stop-opacity:1"
+         offset="1"
+         id="stop3010" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient473994"
+       id="linearGradient3509"
+       x1="896.64978"
+       y1="538.80011"
+       x2="985.45465"
+       y2="538.77045"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.24750647,0,0,0.43502659,-152.24138,38.912711)" />
+    <linearGradient
+       id="linearGradient3507">
+      <stop
+         style="stop-color:#d45500;stop-opacity:1"
+         offset="0"
+         id="stop3503" />
+      <stop
+         style="stop-color:#076600;stop-opacity:1"
+         offset="1"
+         id="stop3505" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient474002"
+       id="linearGradient4741"
+       x1="984.76514"
+       y1="538.29565"
+       x2="1018.8088"
+       y2="538.29565"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.24750647,0,0,0.43414096,-152.24138,39.339497)" />
+    <linearGradient
+       id="linearGradient5014">
+      <stop
+         style="stop-color:#106600;stop-opacity:1"
+         offset="0"
+         id="stop5010" />
+      <stop
+         style="stop-color:#00c2f5;stop-opacity:1"
+         offset="1"
+         id="stop5012" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient474010"
+       id="linearGradient2226"
+       x1="1031.7122"
+       y1="539.07709"
+       x2="1315.3059"
+       y2="539.07715"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.24750647,0,0,0.43502659,-152.24138,38.912711)" />
+    <linearGradient
+       id="linearGradient1266">
+      <stop
+         style="stop-color:#00c2f5;stop-opacity:1"
+         offset="0"
+         id="stop1278" />
+      <stop
+         style="stop-color:#4c0082;stop-opacity:1"
+         offset="1"
+         id="stop1280" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient474010"
+       id="linearGradient481090"
+       x1="115.20772"
+       y1="273.27786"
+       x2="200.11137"
+       y2="273.27786"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-8.3561549,-72.122419)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="165.61099"
+       y="178.39297"
+       id="text270548"><tspan
+         id="tspan270546"
+         style="stroke-width:0.264583"
+         x="165.61099"
+         y="178.39297" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.865;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend)"
+       d="m 196.07824,220.77007 c 0,0 0,0 -175.449265,0 0,-115.65966 0,-115.65966 0,-115.65966"
+       id="path208239" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-197.89485"
+       y="16.396982"
+       id="text210429"
+       transform="rotate(-90)"><tspan
+         id="tspan210427"
+         style="stroke-width:0.264583"
+         x="-197.89485"
+         y="16.396982">Cellular stress</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="53.727837"
+       y="85.602249"
+       id="text228901"><tspan
+         id="tspan228899"
+         style="stroke-width:0.264583"
+         x="53.727837"
+         y="85.602249">Health continuum</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#008080;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker250279)"
+       d="M 20.628975,220.77007 C 116.08131,167.22418 188.13069,120.75113 188.13069,120.75113"
+       id="path231518" />
+    <path
+       style="fill:none;stroke:#008080;stroke-width:0.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.53, 0.765;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 20.272011,163.48372 c 49.689418,0 97.784869,0.11078 97.784869,0.11078 l -0.76415,57.2892"
+       id="path260850" />
+    <circle
+       style="fill:#c51100;fill-opacity:1;stroke:#008080;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path261371"
+       cx="155.09155"
+       cy="141.47137"
+       r="4.0245333" />
+    <circle
+       style="fill:#410098;fill-opacity:1;stroke:#008080;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path261371-9"
+       cx="59.450748"
+       cy="197.87682"
+       r="4.0245333" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="140.07919"
+       y="125.69437"
+       id="text274270"><tspan
+         id="tspan274268"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="140.07919"
+         y="125.69437">Disease</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="38.631817"
+       y="175.01328"
+       id="text288200"><tspan
+         id="tspan288198"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="38.631817"
+         y="175.01328">Health balance</tspan></text>
+    <path
+       style="fill:#410098;fill-opacity:1;stroke:#410098;stroke-width:0.339729;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker295894)"
+       d="m 59.810504,184.94572 c -0.07532,5.1369 -0.04384,6.1135 -0.04384,6.1135"
+       id="path295791" />
+    <path
+       style="fill:#410098;fill-opacity:1;stroke:#c51100;stroke-width:0.339729;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker295894-0)"
+       d="m 155.15275,129.10805 c -0.0753,5.1369 -0.0438,6.1135 -0.0438,6.1135"
+       id="path295791-7" />
+    <g
+       id="g520006">
+      <path
+         id="rect10766"
+         style="mix-blend-mode:normal;fill:url(#linearGradient481090);fill-opacity:1;stroke:none;stroke-width:0.118262;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 162.4799,318.58069 37.63148,-45.30283 -37.63148,-45.30283 -0.0483,21.83066 -47.22388,-0.0152 0.0357,46.75564 47.18818,-0.0435 z" />
+      <rect
+         style="fill:url(#linearGradient2750);fill-opacity:1;stroke:none;stroke-width:0.0868186;stroke-opacity:1"
+         id="rect3102"
+         width="57.481739"
+         height="46.753094"
+         x="12.192645"
+         y="249.79301"
+         ry="0" />
+      <rect
+         style="fill:url(#linearGradient3509);fill-opacity:1;stroke:none;stroke-width:0.08792;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect11286"
+         width="22.647886"
+         height="46.753094"
+         x="69.198547"
+         y="249.79301" />
+      <rect
+         style="fill:url(#linearGradient4741);fill-opacity:1;stroke:none;stroke-width:0.0867305;stroke-opacity:1"
+         id="rect4703"
+         width="23.552591"
+         height="46.754532"
+         x="91.765312"
+         y="249.79158"
+         ry="0.095675863" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="15.899397"
+         y="277.59979"
+         id="text378846"><tspan
+           id="tspan378844"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:Umpush;-inkscape-font-specification:'Umpush, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="15.899397"
+           y="277.59979">HEALTH</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="148.3246"
+         y="277.6629"
+         id="text383206"><tspan
+           id="tspan383204"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:Umpush;-inkscape-font-specification:'Umpush, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;fill-opacity:1;stroke-width:0.264583"
+           x="148.3246"
+           y="277.6629">DISEASE</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="100.20951"
+         y="269.51923"
+         id="text385388"><tspan
+           id="tspan385386"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:Umpush;-inkscape-font-specification:'Umpush, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke-width:0.264583"
+           x="100.20951"
+           y="269.51923">SUBOPTIMAL</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:Umpush;-inkscape-font-specification:'Umpush, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke-width:0.264583"
+           x="100.20951"
+           y="283.63181"
+           id="tspan385390">HEALTH</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;-inkscape-font-specification:'sans-serif, Italic';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="124.38692"
+       y="108.20985"
+       id="text511519"><tspan
+         id="tspan511517"
+         style="stroke-width:0.264583;-inkscape-font-specification:'sans-serif, Italic';font-family:sans-serif;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;font-size:10.58330002px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="124.38692"
+         y="108.20985">Diagnosing</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="759.2478mm"
+   height="345.35681mm"
+   viewBox="0 0 759.2478 345.35681"
+   version="1.1"
+   id="svg397273"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs397270">
+    <linearGradient
+       xlink:href="#linearGradient1266"
+       id="linearGradient2226"
+       x1="1031.7122"
+       y1="539.07709"
+       x2="1315.3059"
+       y2="539.07715"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient1266">
+      <stop
+         style="stop-color:#f600a4;stop-opacity:1"
+         offset="0"
+         id="stop1278" />
+      <stop
+         style="stop-color:#4c0082;stop-opacity:1"
+         offset="1"
+         id="stop1280" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient3507"
+       id="linearGradient3509"
+       x1="924.65283"
+       y1="538.84131"
+       x2="985.45465"
+       y2="538.77045"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3507">
+      <stop
+         style="stop-color:#f5ff00;stop-opacity:1"
+         offset="0"
+         id="stop3503" />
+      <stop
+         style="stop-color:#0ed100;stop-opacity:1"
+         offset="1"
+         id="stop3505" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient3157"
+       id="linearGradient3159"
+       x1="664.03015"
+       y1="538.72308"
+       x2="896.17603"
+       y2="538.72308"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3157">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="0"
+         id="stop3153" />
+      <stop
+         style="stop-color:#fdff00;stop-opacity:1"
+         offset="1"
+         id="stop3155" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient5014"
+       id="linearGradient4741"
+       x1="984.76514"
+       y1="538.29565"
+       x2="1018.8088"
+       y2="538.29565"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient5014">
+      <stop
+         style="stop-color:#27f600;stop-opacity:0.50282955"
+         offset="0"
+         id="stop5010" />
+      <stop
+         style="stop-color:#f600a4;stop-opacity:0.5"
+         offset="1"
+         id="stop5012" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient130976"
+       id="linearGradient131315"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.43472699,0,0,0.43472699,597.29783,400.82526)"
+       x1="713.43622"
+       y1="475.92432"
+       x2="744.03943"
+       y2="450.48221" />
+    <linearGradient
+       id="linearGradient130976">
+      <stop
+         style="stop-color:#404040;stop-opacity:1"
+         offset="0"
+         id="stop130972" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop130974" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient5084"
+       id="linearGradient5086"
+       x1="3683.8335"
+       y1="2500.894"
+       x2="3683.8335"
+       y2="2350.5632"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient5084">
+      <stop
+         style="stop-color:#800080;stop-opacity:1;"
+         offset="0"
+         id="stop5080" />
+      <stop
+         style="stop-color:#800080;stop-opacity:0;"
+         offset="1"
+         id="stop5082" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path120472" />
+    </marker>
+    <linearGradient
+       xlink:href="#linearGradient130976"
+       id="linearGradient130859"
+       gradientUnits="userSpaceOnUse"
+       x1="713.43622"
+       y1="475.92432"
+       x2="744.03943"
+       y2="450.48221"
+       gradientTransform="translate(6.1814575,131.79807)" />
+    <linearGradient
+       xlink:href="#linearGradient130976"
+       id="linearGradient131292"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.71943321,0,0,0.71943321,300.26306,265.32665)"
+       x1="713.43622"
+       y1="475.92432"
+       x2="744.03943"
+       y2="450.48221" />
+    <radialGradient
+       xlink:href="#linearGradient151179"
+       id="radialGradient151439"
+       cx="768.51678"
+       cy="478.43378"
+       fx="768.51678"
+       fy="478.43378"
+       r="21.343548"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.9351384,0,0,1.8757008,-252.18187,-298.11394)" />
+    <linearGradient
+       id="linearGradient151179">
+      <stop
+         style="stop-color:#f0da00;stop-opacity:1"
+         offset="0"
+         id="stop151175" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop151177" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#linearGradient151179"
+       id="radialGradient151439-0"
+       cx="768.51678"
+       cy="478.43378"
+       fx="768.51678"
+       fy="478.43378"
+       r="21.343548"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5071974,0,0,1.4609039,-5.6724537,-99.661116)" />
+    <radialGradient
+       xlink:href="#linearGradient151179"
+       id="radialGradient151439-0-6"
+       cx="768.51678"
+       cy="478.43378"
+       fx="768.51678"
+       fy="478.43378"
+       r="21.343548"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.90512942,0,0,0.87732846,374.65632,179.54112)" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(329.53226,24.770032)">
+    <g
+       id="g214686"
+       transform="translate(-993.89475,-459.36998)">
+      <g
+         id="g6399"
+         transform="matrix(0.99999996,0,0,1.6581678,2.7455099e-5,-286.03938)">
+        <path
+           id="rect10766"
+           style="mix-blend-mode:normal;fill:url(#linearGradient2226);fill-opacity:1;stroke:none;stroke-width:0.36041;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1271.5679,642.87591 152.0424,-104.13807 -152.0424,-104.13808 -0.1952,50.43185 h -252.5452 v 107.41241 h 252.5452 z" />
+        <rect
+           style="fill:url(#linearGradient3509);fill-opacity:1;stroke:none;stroke-width:0.267939;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect11286"
+           width="89.581703"
+           height="107.44272"
+           x="896.6059"
+           y="484.78214" />
+        <rect
+           style="fill:url(#linearGradient3159);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           id="rect3102"
+           width="232.24341"
+           height="107.4718"
+           x="664.36249"
+           y="484.75305"
+           ry="0" />
+        <rect
+           style="fill:url(#linearGradient4741);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           id="rect4703"
+           width="32.639877"
+           height="107.66189"
+           x="986.18762"
+           y="484.78214"
+           ry="0" />
+      </g>
+      <rect
+         style="fill:url(#linearGradient131315);fill-opacity:1;stroke:none;stroke-width:0.767293;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect130503-3-05"
+         width="13.304043"
+         height="11.060377"
+         x="907.44781"
+         y="596.66205" />
+      <path
+         style="fill:url(#linearGradient5086);fill-opacity:1;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path11390"
+         transform="matrix(0.26458333,0,0,0.26458333,29.200455,100.05652)"
+         d="m 3824.379,2549.5449 -281.0911,0 140.5456,-243.432 z" />
+      <path
+         id="rect5586"
+         style="fill:#f9f9f9;stroke-width:0.264583"
+         d="m 703.64417,543.76608 h 543.00443 l 26.9944,12.21339 -26.9944,12.21339 H 703.64417 c 0,0 16.93333,-5.25395 16.93333,-12.21339 0,-6.95944 -16.93333,-12.21339 -16.93333,-12.21339 z" />
+      <path
+         id="path6256"
+         style="fill:#f9f9f9;stroke-width:0.264583"
+         d="M 699.25909,644.8899 H 959.1593 l 26.9944,12.21339 -26.9944,12.21339 H 699.25909 c 0,0 16.93333,-5.25395 16.93333,-12.21339 0,-6.95944 -16.93333,-12.21339 -16.93333,-12.21339 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="930.07953"
+         y="561.71704"
+         id="text9524"><tspan
+           id="tspan9522"
+           style="font-size:16.9333px;stroke-width:0.264583"
+           x="930.07953"
+           y="561.71704">wellness Paradigm</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="745.68256"
+         y="663.54211"
+         id="text27766"><tspan
+           id="tspan27764"
+           style="font-size:16.9333px;stroke-width:0.264583"
+           x="745.68256"
+           y="663.54211">Treatment Paradigm</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="1338.1614"
+         y="603.31403"
+         id="text46724"><tspan
+           id="tspan46722"
+           style="font-size:16.9333px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+           x="1338.1614"
+           y="603.31403">High-Level</tspan><tspan
+           style="font-size:16.9333px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+           x="1338.1614"
+           y="624.48065"
+           id="tspan46780">Wellness</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="710.72009"
+         y="740.98749"
+         id="text112576"><tspan
+           id="tspan112574"
+           style="font-size:16.9333px;stroke-width:0.264583"
+           x="710.72009"
+           y="740.98749">cellular stress</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+         d="m 917.97906,757.65958 c -250.62013,0 -250.62013,0 -250.62013,0"
+         id="path124495" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="663.9762"
+         y="747.22601"
+         id="text127637"><tspan
+           id="tspan127635"
+           style="stroke-width:0.264583"
+           x="663.9762"
+           y="747.22601">++</tspan></text>
+      <rect
+         style="fill:url(#linearGradient130859);fill-opacity:1;stroke:none;stroke-width:1.765;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect130503-3"
+         width="30.603212"
+         height="25.442122"
+         x="719.61768"
+         y="582.28027" />
+      <rect
+         style="fill:url(#linearGradient131292);fill-opacity:1;stroke:none;stroke-width:1.2698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect130503-3-0"
+         width="22.016968"
+         height="18.303907"
+         x="813.53271"
+         y="589.41852" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="734.62305"
+         y="633.17883"
+         id="text139262"><tspan
+           id="tspan139260"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="734.62305"
+           y="633.17883">disability</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="825.37555"
+         y="633.17883"
+         id="text139262-1"><tspan
+           id="tspan139260-1"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="825.37555"
+           y="633.17883">symtoms</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="902.77734"
+         y="633.17883"
+         id="text147793"><tspan
+           id="tspan147791"
+           style="stroke-width:0.264583"
+           x="902.77734"
+           y="633.17883">signs</tspan></text>
+      <circle
+         style="fill:url(#radialGradient151439);fill-opacity:1;stroke:none;stroke-width:1.765;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path151143"
+         cx="1235.0044"
+         cy="599.28467"
+         r="21.343548" />
+      <circle
+         style="fill:url(#radialGradient151439-0);fill-opacity:1;stroke:none;stroke-width:1.37468;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path151143-0"
+         cx="1152.6339"
+         cy="599.28467"
+         r="16.623587" />
+      <circle
+         style="fill:url(#radialGradient151439-0-6);fill-opacity:1;stroke:none;stroke-width:0.82555;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path151143-0-2"
+         cx="1070.2634"
+         cy="599.28467"
+         r="9.9830961" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="1071.8169"
+         y="635.23041"
+         id="text156284"><tspan
+           id="tspan156282"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="1071.8169"
+           y="635.23041">awareness</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="1151.5554"
+         y="635.23041"
+         id="text156284-5"><tspan
+           id="tspan156282-8"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="1151.5554"
+           y="635.23041">education</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="1218.3252"
+         y="633.17883"
+         id="text171007"><tspan
+           id="tspan171005"
+           style="stroke-width:0.264583"
+           x="1218.3252"
+           y="633.17883">growth</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="1002.7276"
+         y="468.37033"
+         id="text190769"><tspan
+           id="tspan190767"
+           style="font-size:22.5778px;stroke-width:0.264583"
+           x="1002.7276"
+           y="468.37033">Illness - Wellness Continuum</tspan></text>
+    </g>
+  </g>
+</svg>
