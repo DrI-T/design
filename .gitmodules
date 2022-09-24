@@ -1,0 +1,3 @@
+[submodule "pause.app"]
+	path = pause.app
+	url = git@github.com:block-smith/phx-assets.git
