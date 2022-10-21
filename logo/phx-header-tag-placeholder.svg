@@ -660,15 +660,15 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.309px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke-width:0.265396"
-       x="-206.15422"
-       y="145.66315"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.9786px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke-width:0.318548"
+       x="-172.77602"
+       y="174.83566"
        id="tagline"
-       transform="scale(1.0030683,0.99694107)"><tspan
-         id="tspan1163"
-         x="-206.15422"
-         y="145.66315"
-         style="stroke-width:0.265396">Personalized nutrition feels phenomenal</tspan></text>
+       transform="scale(1.2039567,0.83059466)"><tspan
+         id="tspan59660"
+         x="-172.77602"
+         y="174.83566"
+         style="stroke-width:0.318548">{TAGLINE PLACEHOLDER}</tspan></text>
   </g>
   <g
      id="logo"
