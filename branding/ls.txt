@@ -2,6 +2,7 @@
 ..
 biodiv.png
 biodiv.svg
+butterfly-green.svg
 butterfly-noshade.svg
 butterfly-sq.svg
 buttonfly.png
@@ -15,7 +16,9 @@ fundsbutterfly.svg
 gallery.md
 gb-butterfly.svg
 gbitcoin.svg
-little-golden-bfly-1.svg
+gold-exp-logo.png
+gold-fly-logo.svg
+little-golden-bfly-lighter.svg
 little-golden-bfly.png
 little-golden-bfly-solid.png
 little-golden-bfly-solid.svg
@@ -33,6 +36,7 @@ pause.period.png
 phx-button.svg
 phx-contour-fly-pause.svg
 phx-flower.svg
+phx-gold-logo.svg
 phx-gold-pausefly2.png
 phx-gold-pausefly.png
 phx-gold-pause.png
@@ -42,11 +46,16 @@ phx-gold-w-fly-period.svg
 phx-gold-w-pause.png
 phx-gold-w-pause.svg
 phx-gold-w-pause-workbook.svg
+phx-gold-w-solid-fly-period.png
+phx-gold-w-solid-fly-period.svg
 phx-logo-silhou.png
+phx-period.svg
 phx-sacred-pause.svg
 phx-transformation.svg
 sacred-pause.png
 terra-form.svg.2022_04_13_08_01_50.0.svg
+two-vitamins-pause.png
+two-vitamins-pause.svg
 vitamins-nft.png
 vitamins-pause-period.png
 vitamins-pause-period.svg
