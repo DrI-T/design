@@ -11,6 +11,7 @@ phx-blue-gold-w-bfly-icon.svg
 phx-blue-gold-w-bfly-wo-shade-icon.png.svg
 phx-blue-gold-w-bfly-wo-shade-icon.svg
 phx-branding.jpg
+phx-branding.png
 phx-branding.svg
 phxfly.svg
 phx-gold-icon-circlable.svg
@@ -23,10 +24,15 @@ phx-gold-w-bfly-icon.svg.2022_03_20_17_33_16.0.svg
 phx-gold-w-bfly-sticker.svg
 phx-header-notag.svg
 phx-header.svg
+phx-header-tagline.png
 phx-header-tagline.svg
+phx-header-tag-placeholder.svg
 phx-logo-brushed.svg
 phx-logo.jpg
 phx-logo-yellow.svg
 PNGs
+unpause1.png
+unpause.png
+unpause.svg
 vectorial-gold-brushed.svg
 whitepng.sh
